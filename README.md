@@ -21,3 +21,4 @@ After selecting an operation, the user is asked to input two numbers.
 The chosen operation is performed on the input numbers, and the result is displayed.
 The program continues to run until the user chooses to exit (option 5).
 Note: The calculator uses a continuous loop (while True) to allow users to perform multiple calculations without restarting the program. The loop can be exited by selecting option 5.
+Also i added a C# version.
